@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781747094378",
+    "project_id": "appcoink",
+    "storage_bucket": "appcoink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781747094378:android:0ca527792cad0e6debdb13",
+        "android_client_info": {
+          "package_name": "com.fpr.appcoink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781747094378-99f7cm87tuqpqt3alfjg0umfo8vs4idk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHULxlRzaCHmECfRyBWPXqytladeOTxg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781747094378-99f7cm87tuqpqt3alfjg0umfo8vs4idk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
